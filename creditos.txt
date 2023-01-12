@@ -1,0 +1,53 @@
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::: Creado por DkX Dev ::: Programa Oracle Next Education :::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+-------------------------------------------------------------
++++++++++++++++++++++++++++ Acerca ++++++++++++++++++++++++++
+-------------------------------------------------------------
+
+
+
+Esta herramienta fue desarrollada en el contexto del Challenge ONE Principiante en programacion (Oracle + Alura Latam) basado en los lenguajes HTML, CSS y JavaScript.
+
+El desafio fue propuesto por Jeanmarie Quijada y Genesys Rondon, desarrolladoras e instructoras en Alura Latam.
+
+
+
+-------------------------------------------------------------
+++++++++++++++++++++++ Agradecimientos ++++++++++++++++++++++
+-------------------------------------------------------------
+
+
+
+- A Oracle por la iniciativa ONE desarrollada junto a Alura Latam.
+
+- A Mauricio Castellano Rocha (maccaromcr) cuyo trabajo fue aliciente para este proyecto.
+
+- A la Comunidad en Discord (ONE Etapa Seleccion) por las orientaciones y ayudas compartidas.
+
+- A los responsables del Live de Mentoria (ONE G4 - Alura Te Responde - Encriptador de texto) por los enlaces y sugerencias compartidas.
+
+
+
+-------------------------------------------------------------
++++++++ Creditos - Fuente de las imagenes utilizadas +++++++
+-------------------------------------------------------------
+
+
+
+- Fondo: https://imagenes.heraldo.es/files/image_990_v1/uploads/imagenes/2018/01/25/_hieroglyphics4298631280_1cbc2c80.jpg
+
+- Faraon: https://m.media-amazon.com/images/I/71-rdCjvdYL._AC_SL1500_.jpg
+
+- Logo: https://cdn-icons-png.flaticon.com/512/1362/1362506.png
+
+- Piramide: https://cdn-icons-png.flaticon.com/128/4666/4666534.png
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::: Creado por DkX Dev ::: Programa Oracle Next Education :::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

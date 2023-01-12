@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width"> 
+        <title>Encriptador y Desencriptador de Texto</title>
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/style.css">
+        <script type="text/javascript" src="js/script.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="logo"><img src="img/logo.png" id="loguito" alt="Logo Encriptador"></div>
+            <div class="bienvenida">
+                <p>¡Bienvenidos! Con esta herramienta podrás encriptar/desencriptar mensajes y enviarlos a tus amigos. Sólo necesitas escribir tu mensaje en el primer cuadro, haz click en el botón y el resultado aparecerá en el segundo cuadro. ¡Envía tu primer mensaje secreto!</p></div>
+        </header>
+
+        <main>
+            <div class="mensaje-encriptar">
+                <form>
+                    <textarea cols="20" rows="10" id="mensaje" placeholder="Ingrese el texto aquí" required></textarea>
+                    <legend>Sólo letras minúsculas y sin acento</legend>
+                    <button type="button" id="encriptar" class="enviar-encriptar" onclick="encriptarTexto()">Encriptar</button>
+                    <button type="button" id="desencriptar" class="enviar-desencriptar" onclick="desencriptarTexto()">Desencriptar</button>
+                </form>
+            </div>
+            <div id="mostrarMensaje" class="mensaje-desencriptar">
+                <img src="img/faraon.jpg" id="imagen">
+                <h2 class="textoNinguno" id="textoNinguno">Ningún mensaje todavía. <br><br>Ingresa el texto para encriptar o desencriptar.</h2>
+                <div class="display-none" id="mostrar">
+                    <textarea cols="20" rows="10" id="cifrado">Ingrese el texto a encriptar o desencriptar</textarea>
+                    <button type="button" id="copiar" onclick="copiar()">Copiar</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy DkX Dev - 2023 | <a href="creditos.txt" target="_blank">Créditos y Agradecimientos</a></p>
+        </footer>
+    </body>
+</html>
